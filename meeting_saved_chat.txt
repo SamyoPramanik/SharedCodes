@@ -1,0 +1,54 @@
+19:34:13 From Ibtida Bin Ahmed To Everyone:
+	sir are our projects team based ?
+19:35:08 From 2105163-Dibbo Chowdhury To Everyone:
+	mane problem statement ki fixed hobe?
+19:35:20 From Ibtida Bin Ahmed To Everyone:
+	thank you very much sir
+19:36:06 From Ni Hal To Everyone:
+	Time period for the offline?
+19:36:06 From 2105173 Sunanda Chowdhury To Everyone:
+	Sir,amar laptop e debugging hoi na. Seta ki shomossa korbe?
+19:37:28 From 2105069 Sheikh Ifti To Everyone:
+	sir I did the installation process as it was provided, but while building, it shows that the Glaux.dll and glut32.dll is not found. What might be causing this issue?
+19:37:30 From Dibya(2105084) To Everyone:
+	Sir,here you took user input from mouse(left click moves the circle to right).Can we take user input from keyboard using igraphics?(Like user wants to move the circle to right so he used right arrow from keyboard)
+19:38:36 From Ni Hal To Everyone:
+	Time period for the offline?
+19:40:28 From 2105033-Abhishek Roy To Everyone:
+	Sir Vscode e kora jaabe?
+19:44:06 From 2105145 Sajid To Everyone:
+	Reacted to "Sir Vscode e kora ja…" with 😡
+19:44:37 From 2105145 Sajid To Everyone:
+	Removed a 😡 reaction from "Sir Vscode e kora ja…"
+19:51:23 From 2105163-Dibbo Chowdhury To Everyone:
+	color gulor parameter 0-255 range e thake keno?
+19:54:05 From 2105098 Debashmita Saha To Everyone:
+	Sir, rgb 3tar value er sum ki 255 hobe?
+19:55:09 From 2105098 Debashmita Saha To Everyone:
+	Ok,sir. Thank you.
+20:01:16 From 2105098 Debashmita Saha To Everyone:
+	sir,(0,0) jehetu lower left corner e, tahole line ba circle draw korar somoy ki only positive co-ordinates nite hobe?
+20:02:23 From Ibtida Bin Ahmed To Everyone:
+	minimum value of slices?
+20:08:23 From Raihan Rashid To Everyone:
+	Sir eigular stroke er color and inner color amra kemne control korbo?
+20:11:06 From 2105163-Dibbo Chowdhury To Everyone:
+	.dll file change kore ki font manipulation korte parbo?
+20:16:07 From Raihan Rashid To Everyone:
+	Sir size kemne control korbo?
+20:19:22 From Dibya(2105084) To Everyone:
+	এরকম ফাংশন কি আছে যেটা ইউজারের action এর consequence  উপর ডিপেন্ড করে বারবার কল করবে?
+20:24:54 From Ibtida Bin Ahmed To Everyone:
+	iDraw() call koto khon por por hoy sir?
+20:25:24 From 2105163-Dibbo Chowdhury To Everyone:
+	idraw er iteration time change korar ki kono option nei?
+20:25:45 From 2105072- Abony Kamal To Everyone:
+	tahole sir boro loop thakle sheta ki main e likhbo?
+20:33:57 From Ibtida Bin Ahmed To Everyone:
+	is this possible to hold the buttons down for a moment or instant clicks only?
+20:44:44 From 2105094 Omar Abdur Razzaque To Everyone:
+	why did we initialize dx and dy after calling iSetTimer and not before?
+20:48:00 From Raihan Rashid To Everyone:
+	Sir dx dy er value main function er baire onnanno function e Kemne exist kortese amra to oigulake kono function diye pass kortesina
+20:48:18 From Raihan Rashid To Everyone:
+	Bujhechi sir
